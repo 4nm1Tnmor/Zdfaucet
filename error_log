@@ -1,0 +1,2 @@
+[17-Jul-2021 05:36:38 UTC] PHP Fatal error:  <br/>The file <b>/home/mrphpscr/public_html/application/core/MY_Controller.php</b> was encoded with the Encoder for PHP 7.1 and can only run on PHP 7.1 or later.<br/> If you are the administrator of this site then please upgrade to PHP 7.1 or later and install the corresponding ionCube Loader. in Unknown on line 0
+[17-Jul-2021 05:52:24 UTC] PHP Fatal error:  Class 'CI_Driver_Library' not found in /home/mrphpscr/public_html/system/libraries/Cache/Cache.php on line 49

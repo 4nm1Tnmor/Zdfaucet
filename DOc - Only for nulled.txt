@@ -1,0 +1,4 @@
+1>Change htaccess to .htaccess
+2> Find vei.php and change the values inside
+3> Upload the sql files.
+4> If any error comes contact @Protheme24x7 via telegram.
